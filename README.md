@@ -1,5 +1,5 @@
 # IPL-DBMS
-#Objective of the Project
+# Objective of the Project
 We want to design and implement a database that handles the data of the Indian Premier League. 
 Individual players profiles, data of matches, teams, sponsors, owners can be stored and viewed from 
 this database. This database can be used by the IPL administration for various purposes like 
@@ -8,7 +8,7 @@ We should be able to get information such as the players of the teams, results o
 particular teams/players, data about the coaches of the teams, who was the owner of the team, 
 location of the stadium where the match was played, etc.
 
-#Description of the Project
+# Description of the Project
 IPL is organized yearly in India where various cricket teams consisting of players from all over the 
 world participate. IPL administration has to keep track of several things for the entire event 
 organization. This information can be used by the advertisement companies, teams, coaches, 
