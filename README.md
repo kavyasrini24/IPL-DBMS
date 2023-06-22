@@ -36,3 +36,16 @@ We record the name, occupation/business, team, year of owning the team for all t
 store the name, field of work, team, year for all the sponsors. 
 We keep the total runs, wickets, catches, strike rate, etc updated for all the players after the 
 completion of a season.
+
+## Contents
+- Entity-Relationship Model
+- Relational Model
+- Functional Dependencies
+- Normalization to Boyce-Codd Normal Form(BCNF)
+- DDL script of Relational Model to implement in PostgreSQL.
+- Data insertion script for PostgreSQL.
+- SQL Sample Queries
+
+## Scope of upgradation
+Different external views can be added. This means that different types of users might see different subsets of database schema. The organizers of IPL can have access to all the data. However, different teams might see some subsets of the database since all the information can’t be shared with everyone. Same thing goes for users/audience of IPL. 
+This entire database can serve the purpose of backend for the IPL website.
