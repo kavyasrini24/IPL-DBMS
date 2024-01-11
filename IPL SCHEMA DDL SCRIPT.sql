@@ -12,6 +12,16 @@ CREATE TABLE Players(
 	BowlingStyle  VARCHAR(50),
 	BattingStyle  VARCHAR(50)
 );
+CREATE TABLE kavya(
+    	PlayerID CHARACTER(5) PRIMARY KEY,
+	"Name" VARCHAR(50) NOT NULL, 
+	Nationality  VARCHAR(50) NOT NULL,
+	DoB DATE NOT NULL,
+	"Role"  VARCHAR(50),
+	StrikeRate DECIMAL(5,2),
+	BowlingStyle  VARCHAR(50),
+	BattingStyle  VARCHAR(50)
+);
 
 CREATE TABLE TitleSponsor(
 	CompanyName VARCHAR(50) PRIMARY KEY,
